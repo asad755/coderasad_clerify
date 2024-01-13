@@ -1,9 +1,9 @@
 {
-  "name": "coderasad_clerify",
+  "name": "nice-coderasad_clerify",
   "version": "1.0.0",
   "description": "A library to colorify your console.",
   "main": "lib/index.js",
-  "types": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
@@ -11,14 +11,14 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/asad755/coderasad_clerify",
+    "url": "https://github.com/asad755/nice-coderasad_clerify",
     "buges":{
-      "url": "https://github.com/asad755/coderasad_clerify/issues"
+      "url": "https://github.com/asad755/nice-coderasad_clerify/issues"
     },
     
 
   
-  "homepage": "https://github.com/asad755/coderasad_clerify/#readme",
+  "homepage": "https://github.com/asad755/nice-coderasad_clerify/#readme",
   "keywords": [
     "console log colors",
     "colorify log"
